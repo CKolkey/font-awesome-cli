@@ -33,3 +33,8 @@
 - What's the black text off to the right?
 
   Font Awesome made come search terms, and I left those in so fzf could use them. But that's pretty much it.
+  
+  
+- Is it done?
+
+  No.
