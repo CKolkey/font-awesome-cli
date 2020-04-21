@@ -32,9 +32,9 @@
   
 - What's the black text off to the right?
 
-  Font Awesome made come search terms, and I left those in so fzf could use them. But that's pretty much it.
+  Font Awesome made some search terms, and I left those in so fzf could use them. But that's pretty much it. It's not really important to look at them.
   
   
 - Is it done?
 
-  No.
+  No. I've got a few more things I wanna add, but this is 90% there. 
